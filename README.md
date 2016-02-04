@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _\<Lucas Blair - blair130\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<February 4, 2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<In this assignment, I was required to use github and my text editor to clone a file and to edit that file.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<I learned how to clone a file from github and use my text editor to edit that file.  I also learned how to upload it from there.\>_
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Lucas Blair\>_
